@@ -3,7 +3,6 @@
 	import Footer from '$lib/components/Footer.svelte';
 	import Hero from '$lib/components/Hero.svelte';
 	import HowItWorks from '$lib/components/HowItWorks.svelte';
-	import LanguageSwitcher from '$lib/components/LanguageSwitcher.svelte';
 	import Personalization from '$lib/components/Personalization.svelte';
 </script>
 
@@ -12,10 +11,13 @@
 </svelte:head>
 
 <main class="min-h-screen bg-black text-white selection:bg-primary selection:text-black">
-	<LanguageSwitcher />
 	<Hero />
-	<HowItWorks />
-	<Personalization />
+	<div id="how-it-works">
+		<HowItWorks />
+	</div>
+	<div id="personalization">
+		<Personalization />
+	</div>
 	<Features />
 	<Footer />
 </main>

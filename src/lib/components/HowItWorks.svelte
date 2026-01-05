@@ -9,7 +9,7 @@
 	];
 </script>
 
-<section class="bg-neutral-900/30 py-24">
+<section id="how-it-works" class="bg-neutral-900/30 py-24">
 	<div class="container mx-auto px-6">
 		<div class="mb-16 text-center">
 			<h2 class="mb-4 text-3xl font-bold md:text-5xl">{m.nav_how_it_works()}</h2>

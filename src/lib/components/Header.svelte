@@ -74,6 +74,7 @@
 			</div>
 
 			<button
+				onclick={() => scrollToSection('download')}
 				class="hidden rounded-full border border-white/10 bg-white/5 px-6 py-2 text-sm font-bold transition-all hover:border-primary hover:bg-primary hover:text-black md:block"
 			>
 				{m.hero_cta_start()}

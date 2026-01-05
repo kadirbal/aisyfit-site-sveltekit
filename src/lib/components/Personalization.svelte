@@ -2,7 +2,7 @@
 	import * as m from '$lib/paraglide/messages';
 </script>
 
-<section class="relative overflow-hidden py-24">
+<section id="personalization" class="relative overflow-hidden py-24">
 	<!-- Decorative background -->
 	<div
 		class="absolute top-0 right-0 h-96 w-96 translate-x-1/2 -translate-y-1/2 rounded-full bg-primary/5 blur-3xl"

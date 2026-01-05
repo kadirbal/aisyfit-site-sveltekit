@@ -3,7 +3,7 @@
 	import DownloadButtons from './DownloadButtons.svelte';
 </script>
 
-<section class="relative overflow-hidden py-24">
+<section id="download" class="relative overflow-hidden py-24">
 	<!-- Glow Effect -->
 	<div
 		class="pointer-events-none absolute bottom-0 left-1/2 h-[400px] w-[600px] -translate-x-1/2 rounded-full bg-primary/10 blur-[100px]"

@@ -10,8 +10,10 @@
 			</div>
 
 			<div class="flex gap-8 text-sm text-gray-400">
-				<a href="/" class="transition-colors hover:text-primary">{m.footer_privacy()}</a>
-				<a href="/" class="transition-colors hover:text-primary">{m.footer_terms()}</a>
+				<a href="/privacy-policy" class="transition-colors hover:text-primary"
+					>{m.footer_privacy()}</a
+				>
+				<a href="/terms-of-use" class="transition-colors hover:text-primary">{m.footer_terms()}</a>
 				<a href="/" class="transition-colors hover:text-primary">{m.footer_contact()}</a>
 			</div>
 

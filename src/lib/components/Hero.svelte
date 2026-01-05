@@ -1,5 +1,6 @@
 <script lang="ts">
 	import * as m from '$lib/paraglide/messages';
+	import DownloadButtons from './DownloadButtons.svelte';
 </script>
 
 <section class="relative flex min-h-screen items-center justify-center overflow-hidden pt-20">
@@ -18,17 +19,8 @@
 				{m.hero_subtitle()}
 			</p>
 
-			<div class="flex flex-col justify-center gap-4 sm:flex-row md:justify-start">
-				<button
-					class="hover:bg-opacity-90 transform rounded-full bg-primary px-8 py-4 text-lg font-bold text-black transition-all hover:scale-105"
-				>
-					{m.hero_cta_start()}
-				</button>
-				<button
-					class="rounded-full border border-white/20 px-8 py-4 text-lg font-bold transition-all hover:border-primary hover:text-primary"
-				>
-					{m.hero_cta_demo()}
-				</button>
+			<div class="flex justify-center md:justify-start">
+				<DownloadButtons alignment="left" />
 			</div>
 
 			<div

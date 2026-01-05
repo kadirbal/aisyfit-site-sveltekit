@@ -1,0 +1,45 @@
+{
+	"$schema": "https://inlang.com/schema/message-format-plugin/schema",
+	"hero_title": "DAHA AKILLI\nÇALIŞIN",
+	"hero_subtitle": "Vücudunuza ve hedeflerinize tam olarak uyarlanmış yapay zeka destekli antrenman planları ve beslenme programları. Kişisel koçluğun geleceği burada.",
+	"hero_cta_start": "Ücretsiz Başla",
+	"hero_cta_demo": "Demoyu İncele",
+	"hero_badge_ai": "Yapay Zeka Analizi",
+	"hero_badge_realtime": "Gerçek Zamanlı Adaptasyon",
+
+	"features_title": "TAM EKOSİSTEM",
+	"features_subtitle": "Zirve performansınıza ulaşmak için ihtiyacınız olan her şey tek bir uygulamada.",
+	"feature_1_title": "Akıllı Antrenman Programı",
+	"feature_1_desc": "Gelişiminize ve toparlanmanıza göre günlük kişiselleştirilmiş antrenmanlar.",
+	"feature_2_title": "Hassas Beslenme",
+	"feature_2_desc": "Günlük aktivitenize göre ayarlanan makro uyumlu yemek planları.",
+	"feature_3_title": "Yolculuğunu Takip Et",
+	"feature_3_desc": "Detaylı analizler ve içgörülerle gelişiminizi görselleştirin.",
+	"features_learn_more": "Daha fazla bilgi",
+
+	"footer_privacy": "Gizlilik",
+	"footer_terms": "Şartlar",
+	"footer_contact": "İletişim",
+	"footer_rights": "© 2026 AisyFit. Tüm hakları saklıdır.",
+
+	"nav_how_it_works": "Nasıl Çalışır",
+	"nav_personalization": "Kişiselleştirme",
+
+	"hiw_step_1_title": "Profil Oluştur",
+	"hiw_step_1_desc": "Bize hedeflerinden, sakatlıklarından ve tercihlerinden bahset.",
+	"hiw_step_2_title": "Yapay Zeka Analizi",
+	"hiw_step_2_desc": "Yapay zekamız verilerini analiz ederek mükemmel planı oluşturur.",
+	"hiw_step_3_title": "Harekete Geç",
+	"hiw_step_3_desc": "Günlük antrenman ve beslenme programını uygula.",
+	"hiw_step_4_title": "Sonuç Al",
+	"hiw_step_4_desc": "Gelişimini takip et ve vücudunun değişimini izle.",
+
+	"pers_title": "SİZE ÖZEL",
+	"pers_subtitle": "AisyFit'in her yönü benzersiz profilinize göre özelleştirilir.",
+	"pers_card_goals": "Hedefler",
+	"pers_card_goals_desc": "Kas Kazanımı, Kilo Verme, Dayanıklılık",
+	"pers_card_diet": "Diyet",
+	"pers_card_diet_desc": "Keto, Vegan, Paleo, Dengeli",
+	"pers_card_injuries": "Sakatlıklar",
+	"pers_card_injuries_desc": "Sınırlarınız için güvenli alternatifler"
+}

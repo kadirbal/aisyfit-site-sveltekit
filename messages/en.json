@@ -1,0 +1,45 @@
+{
+	"$schema": "https://inlang.com/schema/message-format-plugin/schema",
+	"hero_title": "TRAIN SMARTER\nNOT HARDER",
+	"hero_subtitle": "AI-powered workout plans and nutrition schedules tailored exactly to your body and goals. The future of personal coaching is here.",
+	"hero_cta_start": "Get Started Free",
+	"hero_cta_demo": "View Demo",
+	"hero_badge_ai": "AI-Driven Analysis",
+	"hero_badge_realtime": "Real-time Adaptations",
+
+	"features_title": "COMPLETE ECOSYSTEM",
+	"features_subtitle": "Everything you need to reach your peak performance, all in one seamless application.",
+	"feature_1_title": "Smart Workout Schedule",
+	"feature_1_desc": "Daily personalized workouts based on your progression and recovery.",
+	"feature_2_title": "Precision Nutrition",
+	"feature_2_desc": "Macro-perfect meal plans that adjust to your daily activity.",
+	"feature_3_title": "Track Your Journey",
+	"feature_3_desc": "Visualize your progress with detailed analytics and insights.",
+	"features_learn_more": "Learn more",
+
+	"footer_privacy": "Privacy",
+	"footer_terms": "Terms",
+	"footer_contact": "Contact",
+	"footer_rights": "© 2026 AisyFit. All rights reserved.",
+
+	"nav_how_it_works": "How it Works",
+	"nav_personalization": "Personalization",
+
+	"hiw_step_1_title": "Create Profile",
+	"hiw_step_1_desc": "Tell us about your goals, injuries, and preferences.",
+	"hiw_step_2_title": "AI Analysis",
+	"hiw_step_2_desc": "Our AI analyzes your data to create a perfect plan.",
+	"hiw_step_3_title": "Take Action",
+	"hiw_step_3_desc": "Follow your daily workout and nutrition schedule.",
+	"hiw_step_4_title": "Get Results",
+	"hiw_step_4_desc": "Track your progress and watch your body transform.",
+
+	"pers_title": "TAILORED TO YOU",
+	"pers_subtitle": "Every aspect of AisyFit is customized to your unique profile.",
+	"pers_card_goals": "Goals",
+	"pers_card_goals_desc": "Muscle Gain, Weight Loss, Endurance",
+	"pers_card_diet": "Diet",
+	"pers_card_diet_desc": "Keto, Vegan, Paleo, Balanced",
+	"pers_card_injuries": "Injuries",
+	"pers_card_injuries_desc": "Safe alternatives for your limitations"
+}

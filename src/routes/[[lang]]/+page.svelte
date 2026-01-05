@@ -1,4 +1,5 @@
 <script>
+	import DownloadApp from '$lib/components/DownloadApp.svelte';
 	import Features from '$lib/components/Features.svelte';
 	import Footer from '$lib/components/Footer.svelte';
 	import Hero from '$lib/components/Hero.svelte';
@@ -19,5 +20,6 @@
 		<Personalization />
 	</div>
 	<Features />
+	<DownloadApp />
 	<Footer />
 </main>

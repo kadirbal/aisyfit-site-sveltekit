@@ -41,5 +41,10 @@
 	"pers_card_diet": "Diyet",
 	"pers_card_diet_desc": "Keto, Vegan, Paleo, Dengeli",
 	"pers_card_injuries": "Sakatlıklar",
-	"pers_card_injuries_desc": "Sınırlarınız için güvenli alternatifler"
+	"pers_card_injuries_desc": "Sınırlarınız için güvenli alternatifler",
+
+	"download_title": "BAŞLAMAYA HAZIR MISIN?",
+	"download_subtitle": "AisyFit'i bugün indirin ve daha iyi bir sen için yolculuğunuza başlayın.",
+	"download_appstore": "App Store",
+	"download_googleplay": "Google Play"
 }

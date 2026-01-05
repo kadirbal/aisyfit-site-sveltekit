@@ -41,5 +41,10 @@
 	"pers_card_diet": "Diet",
 	"pers_card_diet_desc": "Keto, Vegan, Paleo, Balanced",
 	"pers_card_injuries": "Injuries",
-	"pers_card_injuries_desc": "Safe alternatives for your limitations"
+	"pers_card_injuries_desc": "Safe alternatives for your limitations",
+
+	"download_title": "READY TO START?",
+	"download_subtitle": "Download AisyFit today and start your journey to a better you.",
+	"download_appstore": "App Store",
+	"download_googleplay": "Google Play"
 }
